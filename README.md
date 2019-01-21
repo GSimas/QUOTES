@@ -60,4 +60,7 @@ Quotes de outros reps
 
 - **PyThings**
   - "O que nos salva é dar um passo e outro ainda" - Antoine de Saint-Exupéry
+  
+- **Manoel**
+  - "A maior riqueza do homem é sua incompletude. Nesse ponto sou abastado." - Manoel de Barros
 
