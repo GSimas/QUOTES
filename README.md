@@ -63,4 +63,7 @@ Quotes de outros reps
   
 - **Manoel**
   - "A maior riqueza do homem é sua incompletude. Nesse ponto sou abastado." - Manoel de Barros
+  
+- **EEL7062**
+  - "Tornou-se chocantemente óbvio que a nossa tecnologia excedeu a nossa humanidade." - Albert Einstein
 
