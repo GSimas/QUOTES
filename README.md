@@ -1,4 +1,4 @@
-# QUOTES
+# 📃QUOTES
 Quotes de outros reps
 
 - **Game-C**
