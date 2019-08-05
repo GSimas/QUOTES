@@ -66,4 +66,16 @@ Quotes de outros reps
   
 - **EEL7062**
   - "Tornou-se chocantemente óbvio que a nossa tecnologia excedeu a nossa humanidade." - Albert Einstein
+  
+- **EEL7514**
+  - "Os erros são os portais da descoberta" - James Joyce
+  
+- **EEL7303**
+  - "O insucesso é apenas uma oportunidade para recomeçar com mais inteligência." - Henry Ford
+  
+- **EEL7417**
+  - "A resposta certa, não importa nada: o essencial é que as perguntas estejam certas." - Mário Quintana
+  
+- **EEL7123**
+  - "A realidade é aquilo que, quando você para de acreditar, não desaparece." - Philip K. Dick
 
