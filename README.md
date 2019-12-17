@@ -78,4 +78,8 @@ Quotes de outros reps
   
 - **EEL7123**
   - "A realidade é aquilo que, quando você para de acreditar, não desaparece." - Philip K. Dick
+  
+- **EEL7522**
+  - "A reação mais comum da mente humana a uma conquista não é satisfação, e sim o anseio por mais." - Yuval Noah Harari
+
 
