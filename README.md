@@ -81,5 +81,8 @@ Quotes de outros reps
   
 - **EEL7522**
   - "A reação mais comum da mente humana a uma conquista não é satisfação, e sim o anseio por mais." - Yuval Noah Harari
+  
+- **INE5442**
+  - "Liberdade é uma palavra que o sonho humano alimenta, não há ninguém que explique e ninguém que não entenda." - Cecília Meireles
 
 
